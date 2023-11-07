@@ -1,0 +1,4 @@
+numpy
+pandas
+#-e .
+#Above (-e .) will be doing at last
